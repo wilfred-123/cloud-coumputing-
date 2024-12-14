@@ -1,0 +1,56 @@
+
+Cloud computing is defined as the use of hosted services, such as data storage, servers, databases, networking, and software over the internet. Since cloud computing began, the world has witnessed an explosion of cloud-based applications and services in IT, which continue to expand. Almost every application we use resides on the cloud, helping us save storage space, expenses, and time. This article discusses the types of cloud computing and 10 trends to watch out for.
+
+Table of Contents
+What Is Cloud Computing?
+Types of Cloud Computing
+Key Benefits and Challenges for Enterprises
+Top 10 Cloud Computing Trends for 2021
+What Is Cloud Computing?
+Cloud computing refers to the use of hosted services, such as data storage, servers, databases, networking, and software over the internet. The data is stored on physical servers, which are maintained by a cloud service provider. Computer system resources, especially data storage and computing power, are available on-demand, without direct management by the user in cloud computing.
+
+Cloud Computing Architecture
+Cloud Computing Architecture
+
+Instead of storing files on a storage device or hard drive, a user can save them on cloud, making it possible to access the files from anywhere, as long as they have access to the web. The services hosted on cloud can be broadly divided into infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS), and software-as-a-service (SaaS). Based on the deployment model, cloud can also be classified as public, private, and hybrid cloud.
+
+Further, cloud can be divided into two different layers, namely, front-end and back-end. The layer with which users interact is called the front-end layer. This layer enables a user to access the data that has been stored in cloud through cloud computing software.
+
+The layer made up of software and hardware, i.e., the computers, servers, central servers, and databases, is the back-end layer. This layer is the primary component of cloud and is entirely responsible for storing information securely. To ensure seamless connectivity between devices linked via cloud computing, the central servers use a software called middlewareOpens a new window  that acts as a bridge between the database and applications.
+
+Also Read: What Is Cloud Computing Security? Definition, Risks, and Security Best Practices
+
+Types of Cloud Computing
+Cloud computing can either be classified based on the deployment model or the type of service. Based on the specific deployment model, we can classify cloud as public, private, and hybrid cloud. At the same time, it can be classified as infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS), and software-as-a-service (SaaS) based on the service the cloud model offers.
+
+Cloud Computing
+.aligmentchange p {display: inline-block !important; width: 100% !important;}
+
+Types of Cloud Computing
+
+Private cloud
+In a private cloud, the computing services are offered over a private IT network for the dedicated use of a single organization. Also termed internal, enterprise, or corporate cloud, a private cloud is usually managed via internal resources and is not accessible to anyone outside the organization. Private cloud computing provides all the benefits of a public cloud, such as self-service, scalability, and elasticity, along with additional control, security, and customization.
+
+Private clouds provide a higher level of security through company firewalls and internal hosting to ensure that an organization’s sensitive data is not accessible to third-party providers. The drawback of private cloud, however, is that the organization becomes responsible for all the management and maintenance of the data centers, which can prove to be quite resource-intensive.
+
+Public cloud
+Public cloud refers to computing services offered by third-party providers over the internet. Unlike private cloud, the services on public cloud are available to anyone who wants to use or purchase them. These services could be free or sold on-demand, where users only have to pay per usage for the CPU cycles, storage, or bandwidth they consume.
+
+Public clouds can help businesses save on purchasing, managing, and maintaining on-premises infrastructure since the cloud service provider is responsible for managing the system. They also offer scalable RAM and flexible bandwidth, making it easier for businesses to scale their storage needs.
+
+Hybrid cloud
+Hybrid cloud uses a combination of public and private cloud features. The “best of both worlds” cloud model allows a shift of workloads between private and public clouds as the computing and cost requirements change. When the demand for computing and processing fluctuates, hybrid cloudOpens a new window  allows businesses to scale their on-premises infrastructure up to the public cloud to handle the overflow while ensuring that no third-party data centers have access to their data.
+
+In a hybrid cloud model, companies only pay for the resources they use temporarily instead of purchasing and maintaining resources that may not be used for an extended period. In short, a hybrid cloud offers the benefits of a public cloud without its security risks.
+
+Also Read: Top 10 Hybrid Cloud Solution Companies in 2021
+
+Based on the service model, cloud can be categorized into IaaS (Infrastructure-as-a-Service), PaaS (Platform-as-a-Service), and SaaS (Software-as-a-Service). Let’s take a look at each one.
+
+Infrastructure as a service (IaaS)
+Infrastructure as a service or IaaS is a type of cloud computing in which a service provider is responsible for providing servers, storage, and networking over a virtual interface. In this service, the user doesn’t need to manage the cloud infrastructure but has control over the storage, operating systems, and deployed applications.
+
+Instead of the user, a third-party vendor hosts the hardware, software, servers, storage, and other infrastructure components. The vendor also hosts the user’s applications and maintains a backup. 
+
+Platform as a service (PaaS)
+Platform as a service or PaaS is a type of cloud computing that provide
